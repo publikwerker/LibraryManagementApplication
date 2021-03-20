@@ -1,0 +1,70 @@
+/* form.signup,
+form.login {
+  margin-top: 50px;
+} */
+.overall{
+  margin: 2%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+  /* border-image: url(./Assets/pictures/bookshelf.jpg); */
+  background-image: url("https://github.com/spental/LibraryManagementApplication/blob/main/pictures/book.jpg?raw=true"); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
+  
+  /* margin-bottom: 0%; */
+  /* background-image: url("/book.jpg"); */
+}
+.content {
+  text-align: center;
+  border-style: solid;
+  border-width: 5px;
+  border-color: darkgray;
+  background-color: black;
+  opacity: 75%;
+  align-items: center;
+  align-content: center;
+  color: white;
+  margin: auto;
+  width: 80%;
+
+  
+}
+
+ h1,h2 { 
+   color:white;
+   /* opacity: 100%; */
+ }
+/*add color to the book*/
+.modal-header
+{
+  background-color:yellowgreen;
+}
+/*member style*/
+.memberstyle
+{
+background-color: white
+}
+/*member row style*/
+.memberrow
+{
+margin-top: 10px
+}
+/*book image border*/
+.bookImage
+{
+width: 40px;border: 1px solid black
+}
+/*body color*/
+.mainBody
+{
+  background-color:tan;
+}
+/*main body conatainer*/
+.mainBodyContainer
+{
+background-color:rgb(12, 37, 83);height:50px
+}
